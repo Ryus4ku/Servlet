@@ -1,0 +1,33 @@
+[2019-04-20 12:19:15] [info]  [ 8284] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-04-20 12:19:15] [info]  [ 8284] Service Tomcat9 name Apache Tomcat 9.0 Tomcat9
+[2019-04-20 12:19:15] [info]  [ 8284] Service 'Tomcat9' installed
+[2019-04-20 12:19:15] [info]  [ 8284] Commons Daemon procrun finished
+[2019-04-20 12:19:15] [info]  [14900] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-04-20 12:19:15] [info]  [14900] Updating service...
+[2019-04-20 12:19:15] [info]  [14900] Service 'Tomcat9' updated
+[2019-04-20 12:19:15] [info]  [14900] Update service finished.
+[2019-04-20 12:19:15] [info]  [14900] Commons Daemon procrun finished
+[2019-04-20 12:19:15] [info]  [11620] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-04-20 12:19:15] [info]  [11620] Updating service...
+[2019-04-20 12:19:15] [info]  [11620] Service 'Tomcat9' updated
+[2019-04-20 12:19:15] [info]  [11620] Update service finished.
+[2019-04-20 12:19:15] [info]  [11620] Commons Daemon procrun finished
+[2019-04-20 12:19:15] [info]  [14728] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-04-20 12:19:15] [info]  [14728] Updating service...
+[2019-04-20 12:19:15] [info]  [14728] Service 'Tomcat9' updated
+[2019-04-20 12:19:15] [info]  [14728] Update service finished.
+[2019-04-20 12:19:15] [info]  [14728] Commons Daemon procrun finished
+[2019-04-20 12:19:15] [info]  [12244] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-04-20 12:19:15] [info]  [12244] Updating service...
+[2019-04-20 12:19:15] [info]  [12244] Service 'Tomcat9' updated
+[2019-04-20 12:19:15] [info]  [12244] Update service finished.
+[2019-04-20 12:19:15] [info]  [12244] Commons Daemon procrun finished
+[2019-04-20 12:19:19] [info]  [ 9620] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-04-20 12:19:19] [info]  [ 9620] Running 'Tomcat9' Service...
+[2019-04-20 12:19:19] [info]  [ 9572] Starting service...
+[2019-04-20 12:19:20] [info]  [ 9572] Service started in 1183 ms.
+[2019-04-20 12:21:18] [info]  [12776] Console SHUTDOWN event signaled
+[2019-04-20 12:21:18] [info]  [12776] Stopping service...
+[2019-04-20 12:21:19] [info]  [12776] Service stop thread completed.
+[2019-04-20 12:21:19] [info]  [ 9620] Run service finished.
+[2019-04-20 12:21:19] [info]  [ 9620] Commons Daemon procrun finished
